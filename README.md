@@ -44,7 +44,9 @@ npm install
 Create a `.env` file inside `/server`:
 
 ```
-MONGO_URI=mongodb+srv://gsgagan2003:Gagan123@cluster0.yrhy7.mongodb.net/ChatApp?retryWrites=true&w=majority&appName=Cluster0 [for testing purpost only]
+MONGO_URI=mongodb+srv://gsgagan2003:Gagan123@cluster0.yrhy7.mongodb.net/ChatApp?retryWrites=true&w=majority&appName=Cluster0
+
+[for testing purpost only]
 PORT=5000
 ```
 
