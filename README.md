@@ -135,4 +135,4 @@ Ensure `wss://` (not `ws://`) for secure connection in production.
 ---
 
 ## 📬 Contact
-Made with ❤️ by [Your Name]
+Made with ❤️ by Gagan Pratap Singh
